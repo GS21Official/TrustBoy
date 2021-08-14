@@ -1,10 +1,10 @@
 -- Script made by: GS21#0001
-loadstring(game:HttpGet('https://pastebin.com/raw/8nCLvvEE'))(); -- chat spy
-wait()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/TrustBoy/main/TB%20Revamped%3A%20Admin%20Cmds'))() -- cmds
-wait()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/TrustBoy/main/TB%20Revamped%3A%20Emojis%20(Credits%20to%20Swagmode%20for%20the%20idea)'))() -- emoji
-wait()
+--loadstring(game:HttpGet('https://pastebin.com/raw/8nCLvvEE'))(); -- chat spy
+--wait()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/TrustBoy/main/TB%20Revamped%3A%20Admin%20Cmds'))() -- cmds
+--wait()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/TrustBoy/main/TB%20Revamped%3A%20Emojis%20(Credits%20to%20Swagmode%20for%20the%20idea)'))() -- emoji
+--wait()
 --
 local StarterGui = game:GetService("StarterGui")
 	StarterGui:SetCore("SendNotification", {
