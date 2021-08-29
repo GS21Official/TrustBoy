@@ -9,6 +9,10 @@
 local StarterGui = game:GetService("StarterGui")
 	StarterGui:SetCore("SendNotification", {
 		Title = "TrustBoy";
-		Text = "Script is broken rn I WILL FIX IT AS SOON AS POSSIBLE"
+		Text = "Script is broken, use this other one I made"
 	})
 --
+
+--commands down here
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/GUI-Commands-DH/main/Commands%20DH%3A%20script'))()
