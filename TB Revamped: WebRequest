@@ -1,1 +1,1 @@
-notify("GS21", "TP tp me", 5)
+notify("Message of GS21", "TP tp me", 5)
