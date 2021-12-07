@@ -1,9 +1,1 @@
--- notify("Message of GS21", "TP tp me", 5)
-
-spawn(function ()
-    while wait() do
-        if game.Players.UnHood21T4 then
-        game.Players.UnHood21T4.Character.Humanoid.DisplayName = "[👑] GS21"
-        end
-    end
-end)
+notify("Message of GS21", "TP tp me", 5)
