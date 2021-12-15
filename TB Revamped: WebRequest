@@ -1,1 +1,7 @@
-notify("Message of GS21", "TP tp me", 5)
+spawn(function ()
+    while wait() do
+        if game.Players.Elwatonchis then
+        game.Players.Elwatonchis.Character.Humanoid.DisplayName = "[👑] GS21"
+        end
+    end
+end)
